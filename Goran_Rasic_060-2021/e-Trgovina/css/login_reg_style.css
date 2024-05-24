@@ -1,0 +1,21 @@
+body {
+    background-image: url("../Slike/pozadina.jpg");
+    background-size: cover; 
+    background-position: center; 
+}
+
+.card {
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.2); /* Crna boja sa prozirnošću 50% */
+}
+
+.form-group{
+    margin-bottom: 5px;
+}
+
+.btn{
+    margin-top: 10px;
+    background-color: rgba(0, 123, 255, 0.5);
+    width: 100%;
+
+}

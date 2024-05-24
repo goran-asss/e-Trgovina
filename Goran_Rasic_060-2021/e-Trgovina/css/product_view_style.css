@@ -1,0 +1,32 @@
+.product-view{
+    margin-top: 50px;
+}
+.add-review{
+    margin-top: 50px;
+}
+.other-review{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.review{
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
+
+.btn-primary{
+    align-self: flex-end;
+}
+
+.add-product-form{
+    margin-top: 50px;
+}
+
+.btns button{
+    width: 100px;
+    margin: 5px;
+}

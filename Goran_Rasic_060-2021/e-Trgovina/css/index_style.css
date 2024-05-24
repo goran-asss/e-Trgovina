@@ -1,0 +1,24 @@
+
+.container{
+    margin-top: 10px;
+}
+
+.grid{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    row-gap: 30px;
+    padding: 0 20px;
+}
+
+.card-img-top {
+    width: 80%;
+    height: auto;
+    margin: 10px;
+    align-self: center;
+}
+
